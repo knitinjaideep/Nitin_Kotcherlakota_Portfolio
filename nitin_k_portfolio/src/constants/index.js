@@ -42,7 +42,7 @@
     {
       title: "Software Engineer",
       company_name: "Intuit",
-      icon: "/intuit.png",
+      icon: "/company/intuit.png",
       iconBg: "#383E56",
       date: "January 2022 - Present",
       points: [
@@ -55,7 +55,7 @@
     {
       title: "Software Engineer",
       company_name: "International Game Technology",
-      icon: "/igt.png",
+      icon: "/company/igt.png",
       iconBg: "#E6DEDD",
       date: "October 2021 - January 2022",
       points: [
@@ -66,7 +66,7 @@
     {
       title: "Technical Analyst",
       company_name: "Sagitec Solutions LLC",
-      icon: "/sagitec.png",
+      icon: "/company/sagitec.png",
       iconBg: "#383E56",
       date: "August 2016 - October 2021",
       points: [
@@ -80,7 +80,7 @@
     {
       title: "Software Engineering Intern",
       company_name: "Pitney Bowes Inc.",
-      icon: "/pb.png",
+      icon: "/company/pb.png",
       iconBg: "#E6DEDD",
       date: "Jan 2016 - June 2016",
       points: [
